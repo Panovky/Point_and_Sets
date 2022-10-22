@@ -1,0 +1,11 @@
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\bin\Debug\Discretka_2.exe.config
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\bin\Debug\Discretka_2.exe
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\bin\Debug\Discretka_2.pdb
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.csproj.AssemblyReference.cache
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.csproj.SuggestedBindingRedirects.cache
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.Form1.resources
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.Properties.Resources.resources
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.csproj.GenerateResource.cache
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.csproj.CoreCompileInputs.cache
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.exe
+C:\REPOSITORIES_Xenia\Discretka_2\Discretka_2\obj\Debug\Discretka_2.pdb
